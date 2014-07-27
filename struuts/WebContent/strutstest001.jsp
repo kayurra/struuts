@@ -17,18 +17,6 @@
 
   <p>Each of these links lead to a separate "module" within this application.</p>
 
-<<<<<<< HEAD
-=======
-  <ul>
-    <li><html:link module="/exercise" action="/welcome">Taglib Test Pages</html:link></li>
-
-    <li><html:link module="/upload" action="/upload">Upload examples</html:link></li>
-
-    <li><html:link module="/validator" action="/welcome">Validator and Localization examples</html:link></li>
-
-    <li><html:link module="/dispatch" action="/welcome">Dispatch Action examples</html:link></li>
-  </ul>
->>>>>>> FETCH_HEAD
 
 </body>
 </html>
