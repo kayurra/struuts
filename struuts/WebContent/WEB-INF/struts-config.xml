@@ -25,6 +25,6 @@
     <action path="/strutstest001" forward="/strutstest001.jsp" >
         <set-property property="example" value="EXAMPLE" />
     </action>
-  </action-mappings>
+  </action-mappings >
   <message-resources parameter="MessageResources" />
 </struts-config>
